@@ -1,0 +1,1 @@
+Config files for the Duet3 mini 5+ board for RatRig V-Core 3.1 3D printer
